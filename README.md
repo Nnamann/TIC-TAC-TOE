@@ -17,3 +17,9 @@ This tic-tac-toe game runs in terminal. The game has a player vs player mode and
 
 **NOTE:** If you run this code in windows do replace:   system("clear");   command with:   system("cls");  
  (this is used to clear the terminal)
+
+
+  \
+  Have fun playing the game and exploring the algorithm.  
+  Feel free to give feedback or borrow the code.
+  
