@@ -21,5 +21,8 @@ This tic-tac-toe game runs in terminal. The game has a player vs player mode and
 
   \
   Have fun playing the game and exploring the algorithm.  
+  ![IMG_4331](https://github.com/user-attachments/assets/87cba73d-0746-4b84-9a59-61978561ca9e)
+
+  
   Feel free to give feedback or borrow the code.
   
