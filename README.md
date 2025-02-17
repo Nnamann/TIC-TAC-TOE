@@ -15,4 +15,4 @@ This tic-tac-toe game runs in terminal. The game has a player vs player mode and
 ### Snippet from a match  <img width="955" alt="Screenshot 2025-02-16 at 5 52 58 PM" src="https://github.com/user-attachments/assets/f48883af-614c-479f-9876-13906ae0e5b9" />
 
 
-**NOTE:** If you run this code in windows do replace:   system("clear");   command with:   system("cls");   (this is used to clear the terminal)
+**NOTE:** If you run this code in windows do replace:   system("clear");   command with:   system("cls");  (this is used to clear the terminal)
