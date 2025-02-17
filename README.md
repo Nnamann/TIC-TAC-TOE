@@ -7,7 +7,7 @@ This tic-tac-toe game runs in terminal. The game has a player vs player mode and
 ## BRIEF WORKING
 - In EASY mode, the COMPUTER places the marking randomly  
 
-- <ins>**In DIFFICULT mode**, the COMPUTER has few predefined moves, followed by the core algorithm which helps it for decision making. Thus making it impossible to defeat<ins>  
+- <ins>**In DIFFICULT mode**, the COMPUTER has few predefined moves, followed by the core algorithm which helps it for decision making. Thus making it impossible to defeat.<ins>  
 
 - In MODERATE mode, the core algorithm, makes decision without any predefined moves, making the game random and playful.
 
